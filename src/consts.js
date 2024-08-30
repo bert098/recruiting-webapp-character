@@ -55,3 +55,5 @@ export const SKILL_LIST = [
     { name: 'Survival', attributeModifier: 'Wisdom' },
 
 ]
+export const MAX_TOTAL_ATTRIBUTE_VALUE = 70;
+export const MIN_ATTRIBUTE_VALUE = 0;
