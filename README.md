@@ -1,3 +1,8 @@
+# Run app
+1. Clone from github
+2. run npm i
+3. run npm start
+
 # Explanation
 So I broke up the different parts of the app into components as you can see in the components folder and each one is called in the characterSheet component, this is the breakdown
 - characterSheet.js: it is the parent component and has some general logic that is needed for all of the Character sheets like adding new characters and saving 
